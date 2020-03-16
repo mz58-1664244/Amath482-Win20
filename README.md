@@ -1,4 +1,4 @@
-# Amath482-Win20
+# Minghu Zhou Amath482-Win20
 My projects include different exploratory and objective data analysis methods applied to different areas.
 
 In particular,
